@@ -1,0 +1,26 @@
+.xxx h1 {
+  text-indent: 110%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 10px;
+  background-color: #000;
+  background-image: url(" https://docs.google.com/uc?id=link ");
+}
+
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+.card::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
