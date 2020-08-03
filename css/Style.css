@@ -657,7 +657,7 @@ img {
   margin: 35px 20px 55px;
   text-align: left;
   background-color: #fff;
-  border-radius: 0 0 10px 10px;
+  border-radius: 10px 10px 10px 10px;
   position: relative;
 }
 .post-item > img{
@@ -731,8 +731,8 @@ img {
 /*---------------------------------------*/
 
 .map {
-  width: 100vw;
-  height: 51.333333vw;
+  width: 97.7vw;
+  height: 50vw;
 }
 .map iframe {
   width: 100%;
@@ -1400,7 +1400,7 @@ img {
     margin: 35px 15px 55px;
     text-align: left;
     background-color: #fff;
-    border-radius: 0 0 10px 10px;
+    border-radius: 10px 10px 10px 10px;
     position: relative;
   }
 
@@ -2292,7 +2292,7 @@ img {
     margin: 35px 15px 55px;
     text-align: left;
     background-color: #fff;
-    border-radius: 0 0 10px 10px;
+    border-radius: 10px 10px 10px 10px;
     position: relative;
   }
 
