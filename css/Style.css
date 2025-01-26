@@ -194,7 +194,7 @@ img {
 
 /*---------------------------------------*/
 .bg {
-  background-image: url('https://docs.google.com/uc?id=14erSKTkTshuLA5JAk9NWnvGlgHQC05KU');
+  background-image: url('https://drive.google.com/thumbnail?id=14erSKTkTshuLA5JAk9NWnvGlgHQC05KU');
   background-repeat: no-repeat;
   background-position:center bottom;
   background-size: cover;
@@ -1569,7 +1569,7 @@ img {
     max-width: 800px;
   }
   .bg {
-    background-image: url('https://docs.google.com/uc?id=14erSKTkTshuLA5JAk9NWnvGlgHQC05KU');
+    background-image: url('https://drive.google.com/thumbnail?id=14erSKTkTshuLA5JAk9NWnvGlgHQC05KU');
     background-repeat: no-repeat;
     background-position:center center;
   }
